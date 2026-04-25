@@ -1,16 +1,75 @@
-# React + Vite
+# 🛠️ Interface de Sistema de Recapagem de Pneus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Sobre o projeto
 
-Currently, two official plugins are available:
+Este projeto foi desenvolvido como parte da disciplina de **Laboratório de Simulação e Prototipagem**, com o objetivo de transformar um protótipo de interface em uma aplicação front-end funcional.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A proposta consiste na criação da interface de um sistema voltado para serviços de recapagem de pneus, com foco em usabilidade, clareza visual e acessibilidade.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Objetivo
 
-## Expanding the ESLint configuration
+Aplicar na prática conceitos de:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Prototipagem de interfaces
+* Transformação de design em código
+* Desenvolvimento front-end
+* Estruturação de interfaces acessíveis e intuitivas
+
+---
+
+## 🎨 Protótipo (Figma)
+
+O projeto foi inicialmente desenvolvido como protótipo no Figma:
+
+👉 https://www.figma.com/proto/FcShEJdV4TZAq9hDngmg6w/Prot%C3%B3tipoRecapagem-de-Pneu?node-id=34-296&t=aEBhsB2cY8BVSyLx-1&starting-point-node-id=34%3A296
+
+---
+
+## 🌐 Aplicação online
+
+A interface foi implementada e está disponível em:
+
+👉 https://recapagem-pneu-front-end.vercel.app/
+
+---
+
+## 🚀 Funcionalidades
+
+* Interface de navegação para serviços de recapagem
+* Estrutura visual baseada em protótipo
+* Layout simples e funcional
+* Organização de informações para o usuário
+
+---
+
+## ♿ Acessibilidade
+
+O projeto foi desenvolvido com atenção a princípios básicos de acessibilidade, buscando:
+
+* navegação simples e intuitiva
+* boa legibilidade
+* organização clara dos elementos na interface
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* HTML
+* CSS
+* JavaScript
+* Vercel (deploy)
+
+---
+
+
+## 📌 Contexto acadêmico
+
+Projeto desenvolvido para a disciplina de **Laboratório de Simulação e Prototipagem**, com foco na aplicação prática de conceitos de design e desenvolvimento de interfaces.
+
+---
+
+## 👤 Autor
+
+Bruno do Carmo Dias Larronde
